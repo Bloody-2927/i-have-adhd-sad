@@ -18,7 +18,7 @@ Fork von i-have-adhd (Ayoub Ghriss, MIT), auf Deutsch und auf den Standard von N
 
 Es gibt zwei Arten von Text. Sie folgen verschiedenen Regeln.
 
-**A. Chatantworten an Nick** folgen den ADHS-Regeln in Abschnitt 4.
+**A. Chatantworten an Nick** folgen den ADHS-Regeln in Abschnitt 5.
 
 **B. Alles, was bleibt oder was Dritte lesen, wird ordentlich geführt und nicht im ADHS-Stil gekürzt.** Dazu gehören Dokumentation, Projektnotizen, Produkttexte, READMEs, Übergaben, Berichte, Mails, Tickets, Formulare, Kommentare im Code und jede Datei im Vault. Diese Texte sind vollständig, folgerichtig gegliedert, in vollen Sätzen und im Ton der jeweiligen Zielgruppe. Für sie gelten die Leitfäden des Vaults (`CLAUDE.md`, `anti-ai-style`, ISO-Zeile, Projektvorlagen), nicht dieser Skill.
 
